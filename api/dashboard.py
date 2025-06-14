@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Configuration de l'API
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://projet-ml2-api.onrender.com"
 
 # Custom CSS pour améliorer l'apparence
 st.markdown("""
